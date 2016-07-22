@@ -1,5 +1,6 @@
 kekek
 wkwkw
+<<<<<<< HEAD
 sadsad
 sa
 d
@@ -14,3 +15,15 @@ gfd
 g
 fdgfd
 g
+=======
+
+asdsad
+
+fsdgfg
+
+asfdwe
+wqewqeas
+dsa
+dsa
+dsad
+>>>>>>> 5d83460411664d2219ad6791c5caaf45c503cf82
