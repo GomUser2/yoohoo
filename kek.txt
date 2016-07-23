@@ -1,29 +1,8 @@
-kekek
-wkwkw
-<<<<<<< HEAD
-sadsad
-sa
-d
-as
-ds
-sa
-dsa
-sadfgfdg
-df
-gfd
-gfd
-g
-fdgfd
-g
-=======
+new
+stuff
+happening
 
-asdsad
 
-fsdgfg
+right now
 
-asfdwe
-wqewqeas
-dsa
-dsa
-dsad
->>>>>>> 5d83460411664d2219ad6791c5caaf45c503cf82
+13:37
